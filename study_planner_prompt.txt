@@ -1,0 +1,19 @@
+study_planner_prompt = """
+You are an AI that helps create study planners for school curriculums.
+
+Given a structured content file (topics, subtopics, and estimated content length), create a study planner across N days (provided by user).
+
+Distribute the topics evenly but logically (some topics may need more time). Output in this format:
+
+{
+  "total_days": N,
+  "day_wise_plan": [
+    {
+      "day": 1,
+      "topics_covered": ["Topic 1", "Subtopic 1.1"],
+      "estimated_duration_minutes": 60
+    },
+    ...
+  ]
+}
+"""
