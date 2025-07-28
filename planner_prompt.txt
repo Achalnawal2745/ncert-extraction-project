@@ -1,0 +1,16 @@
+planner_prompt = """
+You are an educational assistant. Given the extracted topics from an NCERT Science chapter and a number of study days, create a structured day-wise teaching plan.
+
+Input:
+- Chapter: {chapter_name}
+- Topics: {topic_list}
+- Total Days: {user_days}
+
+Output:
+- Day-wise plan (in table form or bullet points)
+- Each day should include topic, sub-topic, estimated duration
+
+Ensure the plan fits the provided total days.
+Dont provide extracted chapter again,only provide the plan.
+--- BEGIN CHAPTER CONTENT ---
+"""
