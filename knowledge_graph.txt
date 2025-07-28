@@ -1,0 +1,64 @@
+📘 Chapter: REACHING THE AGE OF ADOLESCENCE
+  ├─ 📑 Topic: Adolescence and Puberty
+  │   ├─ 🔹 Sub-topic: Adolescence and Puberty
+  │   │   ├─ 🔗 Paragraphs: 8 item(s)
+  │   │   ├─ 🔗 Questions: 2 item(s)
+  ├─ 📑 Topic: Changes at Puberty
+  │   ├─ 🔹 Sub-topic: Increase in Height
+  │   │   ├─ 🔗 Paragraphs: 1 item(s)
+  │   │   ├─ 🔗 Activities: 2 item(s)
+  │   │   ├─ 🔗 Tables: 1 item(s)
+  │   ├─ 🔹 Sub-topic: Change in Body Shape
+  │   │   ├─ 🔗 Paragraphs: 4 item(s)
+  │   │   ├─ 🔗 Questions: 1 item(s)
+  │   ├─ 🔹 Sub-topic: Voice Change
+  │   │   ├─ 🔗 Paragraphs: 3 item(s)
+  │   │   ├─ 🔗 Images: 1 item(s)
+  │   │   ├─ 🔗 Questions: 1 item(s)
+  │   ├─ 🔹 Sub-topic: Increased Activity of Sweat and Sebaceous Glands
+  │   │   ├─ 🔗 Paragraphs: 2 item(s)
+  │   ├─ 🔹 Sub-topic: Development of Sex Organs
+  │   │   ├─ 🔗 Paragraphs: 1 item(s)
+  │   ├─ 🔹 Sub-topic: Reaching Mental, Intellectual and Emotional Maturity
+  │   │   ├─ 🔗 Paragraphs: 2 item(s)
+  ├─ 📑 Topic: Secondary Sexual Characters
+  │   ├─ 🔹 Sub-topic: Secondary Sexual Characters
+  │   │   ├─ 🔗 Paragraphs: 2 item(s)
+  ├─ 📑 Topic: Role of Hormones in Initiating Reproductive Function
+  │   ├─ 🔹 Sub-topic: Role of Hormones in Initiating Reproductive Function
+  │   │   ├─ 🔗 Paragraphs: 4 item(s)
+  │   │   ├─ 🔗 Images: 1 item(s)
+  ├─ 📑 Topic: Reproductive Phase of Life in Humans
+  │   ├─ 🔹 Sub-topic: Reproductive Phase of Life in Humans
+  │   │   ├─ 🔗 Paragraphs: 3 item(s)
+  │   │   ├─ 🔗 Questions: 2 item(s)
+  ├─ 📑 Topic: How is the Sex of the Baby Determined?
+  │   ├─ 🔹 Sub-topic: How is the Sex of the Baby Determined?
+  │   │   ├─ 🔗 Paragraphs: 3 item(s)
+  │   │   ├─ 🔗 Images: 1 item(s)
+  ├─ 📑 Topic: Hormones other than Sex Hormones
+  │   ├─ 🔹 Sub-topic: Hormones other than Sex Hormones
+  │   │   ├─ 🔗 Paragraphs: 5 item(s)
+  │   │   ├─ 🔗 Images: 1 item(s)
+  ├─ 📑 Topic: Role of Hormones in Completing the Life History of Insects and Frogs
+  │   ├─ 🔹 Sub-topic: Role of Hormones in Completing the Life History of Insects and Frogs
+  │   │   ├─ 🔗 Paragraphs: 2 item(s)
+  │   │   ├─ 🔗 Activities: 1 item(s)
+  │   │   ├─ 🔗 Questions: 2 item(s)
+  ├─ 📑 Topic: Reproductive Health
+  │   ├─ 🔹 Sub-topic: Reproductive Health
+  │   │   ├─ 🔗 Paragraphs: 2 item(s)
+  │   ├─ 🔹 Sub-topic: Nutritional Needs of the Adolescents
+  │   │   ├─ 🔗 Paragraphs: 2 item(s)
+  │   │   ├─ 🔗 Activities: 1 item(s)
+  │   │   ├─ 🔗 Images: 1 item(s)
+  │   ├─ 🔹 Sub-topic: Personal Hygiene
+  │   │   ├─ 🔗 Paragraphs: 2 item(s)
+  │   ├─ 🔹 Sub-topic: Physical Exercise
+  │   │   ├─ 🔗 Paragraphs: 1 item(s)
+  │   ├─ 🔹 Sub-topic: Say “NO” to Drugs
+  │   │   ├─ 🔗 Paragraphs: 2 item(s)
+  │   ├─ 🔹 Sub-topic: Adolescent Pregnancy
+  │   │   ├─ 🔗 Paragraphs: 1 item(s)
+  │   ├─ 🔹 Sub-topic: Myths, Taboos, Do’s and Don’ts
+  │   │   ├─ 🔗 Paragraphs: 1 item(s)
