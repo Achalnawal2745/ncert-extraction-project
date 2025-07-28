@@ -19,6 +19,14 @@ This project is part of an AI-driven task designed to demonstrate prompt enginee
    Create a personalized, day-wise study/teaching plan using the extracted content.
 
 ---
+## 📁 Project Structure
 
-
-
+├── prompts/
+│ ├── content_extraction_prompt.txt
+│ └── study_planner_prompt.txt
+├── chapter-extract.json
+├── chapter-output.xlsx
+├── knowledge_graph.txt
+│── study_planner.pdf
+├── main.ipynb # Google Colab notebook with all code
+└── README.md # This file
