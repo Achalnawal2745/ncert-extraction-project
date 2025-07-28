@@ -1,0 +1,42 @@
+universal_prompt = """
+You are an AI assistant helping to extract structured content from NCERT Class 8 Science textbooks.
+
+Extract and organize the following elements from the input chapter:
+1. Chapter Name
+2. Topic Names
+3. Sub-topic Headers
+4. Paragraphs
+5. Diagrams and Images (mention figure number and caption)
+6. Tables
+7. Examples
+8. Exercises
+9. Activities
+10. Questions (in-text and end-of-chapter)
+11. External sources or boxed facts
+
+Structure the output in the following JSON format:
+
+{
+  "chapter_name": "",
+  "topics": [
+    {
+      "topic_name": "",
+      "subtopics": [
+        {
+          "subtopic_name": "",
+          "content": {
+            "paragraphs": [],
+            "images": [],
+            "tables": [],
+            "examples": [],
+            "activities": [],
+            "questions": [],
+            "boxed_facts": []
+          }
+        }
+      ]
+    }
+  ]
+}
+Do not add interpretations or summaries. Use exact data as found.
+"""
