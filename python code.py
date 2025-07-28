@@ -12,7 +12,7 @@ Original file is located at
 
 import google.generativeai as genai
 
-genai.configure(api_key="AIzaSyC5gThc2KB4Qk71ucLSO_rXShYWVuQIsyg")
+genai.configure(api_key="Your Gemini API")
 
 model = genai.GenerativeModel("gemini-2.0-flash")
 
